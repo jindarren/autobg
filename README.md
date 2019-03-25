@@ -1,4 +1,7 @@
 # autobg
+
+![描述](http://43.255.224.101:3006/images/example.png)
+
 ### How to run?
 1. Run node autobg.js in your terminal
 2. Open localhost:3006
